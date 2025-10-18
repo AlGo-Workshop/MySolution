@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "976b6ad3-f13d-48cd-a8d4-2d821ed7f6c2",
+      "name": "mysolution.w1",
+      "publisher": "achim-t inc.",
+      "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
